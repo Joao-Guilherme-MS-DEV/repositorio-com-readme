@@ -15,7 +15,7 @@ Um projeto de teste com um arquivo README 📜
 git clone <url>
 ```
 
-2 - Acesse a pasta do projeto
+2 - Acesse a pasta repositorio-com-readme
 ```
 cd repsitorio-com-readme
 ```
